@@ -19,6 +19,12 @@ namespace CodeFirst
             context.SaveChanges();
             Console.WriteLine("Added Successfully...............");
             Console.Read();
+            
+            //var std1 = context.students.Find(3);
+            //context.Entry(std1).State = EntityState.Deleted;
+            //context.SaveChanges();
+            //Console.WriteLine("Deleted Successfully...............");
+            //Console.Read();   
         }
     }
 }
