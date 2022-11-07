@@ -27,6 +27,8 @@ namespace CodeFirst
             Console.Read();   
 
             Console.WriteLine("Ashutosh Check");
+            Console.WriteLine("Ashutosh Check");
+            
         }
     }
 }
