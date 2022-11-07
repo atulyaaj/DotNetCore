@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RVnnUOxMi6S4dyxA6izF2FHMchMYsVZpYZTIaA5xXBOoadxLV1TWVYQuMe9A0PSyaM6Wo0ZpZWwU37nNPul42Q==",
+  "dgSpecHash": "GqEGjokbxAqdXgDCqy75NuGbfdHvSE2NV98yANduv7KpjnS2QJm0LCAdmDzSqlZ9URmrrO1JorJnTYS26WPYaA==",
   "success": true,
-  "projectFilePath": "E:\\DotNet\\DotNetCore\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Atulya\\DotNetCore\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
