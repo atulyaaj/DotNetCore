@@ -25,6 +25,8 @@ namespace CodeFirst
             context.SaveChanges();
             Console.WriteLine("Deleted Successfully...............");
             Console.Read();   
+
+            Console.WriteLine("Ashutosh Check");
         }
     }
 }
