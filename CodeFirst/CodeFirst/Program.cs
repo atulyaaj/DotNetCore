@@ -25,9 +25,17 @@ namespace CodeFirst
             context.Entry(std1).State = EntityState.Deleted;
             context.SaveChanges();
             Console.WriteLine("Deleted Successfully...............");
+<<<<<<< HEAD
+            Console.Read();   
+
+            Console.WriteLine("Ashutosh Check");
+            Console.WriteLine("Ashutosh Check");
+            
+=======
             Console.Read();
 
             Console.WriteLine("Check Check.......");
+>>>>>>> 146ede6ef9f8bc2bce23d40292c2076e84255b83
         }
     }
 }
