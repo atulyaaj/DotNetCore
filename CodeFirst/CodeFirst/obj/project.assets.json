@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNet\\DotNetCore\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Atulya\\DotNetCore\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
       "projectName": "CodeFirst",
-      "projectPath": "E:\\DotNet\\DotNetCore\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Atulya\\DotNetCore\\CodeFirst\\CodeFirst\\CodeFirst.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNet\\DotNetCore\\CodeFirst\\CodeFirst\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Atulya\\DotNetCore\\CodeFirst\\CodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations.Operations;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations.Operations;
 using System;
 
 namespace CodeFirst
@@ -24,7 +25,9 @@ namespace CodeFirst
             context.Entry(std1).State = EntityState.Deleted;
             context.SaveChanges();
             Console.WriteLine("Deleted Successfully...............");
-            Console.Read();   
+            Console.Read();
+
+            Console.WriteLine("Check Check.......");
         }
     }
 }
